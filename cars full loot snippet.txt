@@ -1,7 +1,3 @@
-
-<!--  the following code snippet should replace the vehicle code in your cfgspawnabletypes.xml  -->
-
-
 <type name="OffroadHatchback">
 			<attachments chance="1.00">
 			<item name="HatchbackWheel" chance="1.00" />
